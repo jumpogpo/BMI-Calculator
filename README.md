@@ -3,5 +3,5 @@
 ### Requirement
 - tkinter
 
-This project make for education only
+This project makes for education only!!
 Create By: jumpogpo (Thanapat Koedpiam)
