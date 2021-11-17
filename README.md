@@ -1,4 +1,4 @@
-# BMI Calculator (Thai Version)
+# BMI Calculator
 
 ### Requirement
 - tkinter
